@@ -20,6 +20,7 @@ public class GitTestApplication {
         System.out.println("远程库中进行修改");
         System.out.println("协同开发第一次");
         System.out.println("is ok");
+        System.out.println("just do it");
 
     }
 
