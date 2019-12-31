@@ -10,4 +10,13 @@ public class GitTestApplication {
         SpringApplication.run(GitTestApplication.class, args);
     }
 
+    public void test1() {
+
+        /*ctrl + t 将远程库中的修改更新到当前项目中*/
+        /*ctrl + k 将项目提交到主干分支*/
+        /*ctrl + alt + k 将项目提交并推送*/
+        /*ctrl + q 查看修改，并撤销修改*/
+
+    }
+
 }
