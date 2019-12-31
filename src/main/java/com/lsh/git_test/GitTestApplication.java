@@ -16,7 +16,7 @@ public class GitTestApplication {
         /*ctrl + k 将项目提交到主干分支*/
         /*ctrl + alt + k 将项目提交并推送*/
         /*ctrl + q 查看修改，并撤销修改*/
-
+        System.out.println("第一次尝试");
     }
 
 }
