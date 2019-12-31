@@ -18,6 +18,7 @@ public class GitTestApplication {
         /*ctrl + q 查看修改，并撤销修改*/
         System.out.println("第一次尝试");
         System.out.println("远程库中进行修改");
+        System.out.println("协同开发第一次测试");
     }
 
 }
