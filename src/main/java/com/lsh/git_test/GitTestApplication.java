@@ -19,6 +19,8 @@ public class GitTestApplication {
         System.out.println("第一次尝试");
         System.out.println("远程库中进行修改");
         System.out.println("协同开发第一次");
+        System.out.println("is ok");
+
     }
 
 }
